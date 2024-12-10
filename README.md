@@ -7,7 +7,7 @@
 
 #
 
-<h1> READ, DELETE And BOOTSTRAP </h1>
+<h1> READ AND DELETE DATA</h1>
 
 <img src ="https://github.com/user-attachments/assets/d9b40360-d52a-444a-80c4-f8e0c4e0017c">
 <img src ="https://github.com/user-attachments/assets/7fbbc3f7-0ad8-4b86-b2e5-88f5da91d0fc">
