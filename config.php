@@ -44,11 +44,23 @@
           {
             echo "Data Insertion Failed...!";
           }
+    }   
+
+
+    public function fetch()
+    {
+      $query = "SELECT * FROM students";
+      $res = mysqli_query($this->connection, $query);
+      return $res;
     }
 
-
-        
+    public function delete($id)
+    {
+        $query = "DELETE FROM students WHERE id = $id";
+        $res = mysqli_query($this->connection, $query);
+        return $res;
     }
 
+}
 
 ?>
