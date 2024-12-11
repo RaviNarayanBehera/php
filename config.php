@@ -61,6 +61,13 @@
         return $res;
     }
 
+    public function update($id, $name, $age, $course, $phone)
+    {
+        $query = "UPDATE students SET name='$name', age=$age, course='$course', phone=$phone WHERE id=$id";
+        $res = mysqli_query($this->connection, $query);
+        return $res;
+    }
+
 }
 
 ?>
