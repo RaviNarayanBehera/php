@@ -13,6 +13,18 @@
 <img src ="https://github.com/user-attachments/assets/7fbbc3f7-0ad8-4b86-b2e5-88f5da91d0fc">
 
 <video src="https://github.com/user-attachments/assets/67170b56-1d35-4569-9f29-04251fdd9319">
+</video>
+
+
+#
+
+<h1> Update and Validation DATA</h1>
+
+<img src ="https://github.com/user-attachments/assets/f4608fc2-a1bb-4e7b-907d-ed61a612022a">
+<img src ="https://github.com/user-attachments/assets/91ee37f3-819d-499d-9774-89dd090a315e">
+
+<video src="https://github.com/user-attachments/assets/43371034-c8fd-4dd4-ad58-2dcc260b27b7">
+
 
 
 
