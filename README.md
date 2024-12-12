@@ -24,8 +24,12 @@
 <img src ="https://github.com/user-attachments/assets/91ee37f3-819d-499d-9774-89dd090a315e">
 
 <video src="https://github.com/user-attachments/assets/43371034-c8fd-4dd4-ad58-2dcc260b27b7">
+</video>
 
-
+#
+<h1>POST AND GET </h1>
+<video src="https://github.com/user-attachments/assets/d2b6b445-4f12-4dbd-99a2-db7a83d79928">
+</video>
 
 
 
