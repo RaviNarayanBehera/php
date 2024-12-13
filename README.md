@@ -33,5 +33,15 @@
 <video src="https://github.com/user-attachments/assets/ab315340-4071-4280-b65a-4dacf1d1804a">
 </video>
 
+#
+<h1>DELTE AND PUT</h1>
+<video src=""></video>
+
+#
+<h1>All in One Operation[PUT, GET, DETELE, PUT]</h1>
+<video src="https://github.com/user-attachments/assets/2f9149dc-17a7-417d-b69e-e127f559d3ab"></video>
+
+
+
 
 
