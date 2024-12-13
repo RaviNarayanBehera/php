@@ -35,10 +35,10 @@
 
 #
 <h1>DELTE AND PUT</h1>
-<video src=""></video>
+<video src="https://github.com/user-attachments/assets/2db985e5-34a0-4050-a0e3-00098b6ec51d"></video>
 
 #
-<h1>All in One Operation[PUT, GET, DETELE, PUT]</h1>
+<h1>All in One CRUD Operation[PUT, GET, DETELE, PUT] In One Link...🔗</h1>
 <video src="https://github.com/user-attachments/assets/2f9149dc-17a7-417d-b69e-e127f559d3ab"></video>
 
 
